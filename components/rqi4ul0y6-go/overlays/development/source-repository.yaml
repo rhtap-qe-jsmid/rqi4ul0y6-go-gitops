@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: rqi4ul0y6-go-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/rqi4ul0y6-go
